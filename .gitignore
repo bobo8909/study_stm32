@@ -1,0 +1,15 @@
+*.o
+*.d
+*.crf
+*.lst
+*.bak
+*.dep
+*.__i
+*.axf
+*.lnp
+*.map
+*.plg
+*.sct
+*.tra
+
+./spi/so_in/
